@@ -1,0 +1,3 @@
+tasks:
+  - name: main.ts
+    command: tsc main.ts && node main.js
